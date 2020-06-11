@@ -1,0 +1,45 @@
+{
+  "_from": "github:syahrul84/Bootstrap-4-tags-input-typeahed-example",
+  "_id": "Bootstrap-4-tags-input-typeahed-example@1.0.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/Bootstrap-4-tags-input-typeahed-example",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "syahrul84/Bootstrap-4-tags-input-typeahed-example",
+    "rawSpec": "syahrul84/Bootstrap-4-tags-input-typeahed-example",
+    "saveSpec": "github:syahrul84/Bootstrap-4-tags-input-typeahed-example",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "github:syahrul84/bootstrap4-tagsinput#5ef7ed1a4be37a1c8ece1944f87926b73dfdf061",
+  "_spec": "syahrul84/Bootstrap-4-tags-input-typeahed-example",
+  "bugs": {
+    "url": "https://github.com/syahrul84/Bootstrap-4-tags-input-typeahed-example/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "jQuery tags input plugin based on Twitter Bootstrap 4",
+  "files": [
+    "main.js",
+    "js/tagsinput.js",
+    "js/typeahead.js",
+    "css/typeahead.css"
+  ],
+  "homepage": "https://github.com/syahrul84/Bootstrap-4-tags-input-typeahed-example",
+  "license": "MIT",
+  "main": "tagsinput.js",
+  "name": "bootstrap4-tagsinput",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syahrul84/Bootstrap-4-tags-input-typeahed-example.git"
+  },
+  "style": "tagsinput.css",
+  "title": "Bootstrap 4 tags input typeahed",
+  "version": "1.0.1"
+}
